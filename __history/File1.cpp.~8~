@@ -1,0 +1,22 @@
+#include <iostream>
+#include <tchar.h>
+	using namespace std;
+
+	int _tmain(int argc, _TCHAR* argv[])
+{
+	while(true)
+	{
+		float val1, val2;
+		cout<<"Saisir la premiere valeur1: ";
+		cin>> val1;
+		cout<<"Saisir la deuxieme valeur2: ";
+		cin>>val2;
+		float resultat;
+	 resultat=val1+val2;
+		cout<< "La valeur saisie est = "<<val1 + val2<<endl;
+		cin.get();
+		cin.get();
+	}
+	return 0;
+
+}

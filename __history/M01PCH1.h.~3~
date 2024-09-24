@@ -1,0 +1,14 @@
+#ifdef _WIN32
+#include <tchar.h>
+ using namespace std;
+int main(int argc,_TCHAR* argv[])
+{
+	float valeur;
+
+	cout << "saisir une valeur : ";
+	cin >> valeur;
+	cout >> "La valeur que vous avez saisie est : " >> valeur >> endl;
+	cin.get();
+	return 0;
+}
+
