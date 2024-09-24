@@ -29,8 +29,6 @@
 
 		cin.get();
 		cin.get();
-		std::cout <<"FIN DU PROGRAMME CALCULATRICE SANS ERREUR" << std::endl;
-
 	}
 	return 0;
 

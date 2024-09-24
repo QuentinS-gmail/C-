@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2024/09/23 15:02:50.993,=C:\Users\qsautreuil\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
-    <Transaction>2024/09/23 15:02:51.243,=C:\Users\qsautreuil\Documents\Embarcadero\Studio\Projets\File1.cpp</Transaction>
-    <Transaction>2024/09/23 15:05:55.028,C:\Users\qsautreuil\Desktop\M01\File1.cpp=C:\Users\qsautreuil\Documents\Embarcadero\Studio\Projets\File1.cpp</Transaction>
-    <Transaction>2024/09/23 16:57:27.493,C:\Users\qsautreuil\Desktop\M01\Project1.cbproj=C:\Users\qsautreuil\Documents\Embarcadero\Studio\Projets\Project1.cbproj</Transaction>
-    <Transaction>2024/09/23 16:57:27.493,C:\Users\qsautreuil\Desktop\M01\Project1PCH1.h=C:\Users\qsautreuil\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+	<Transactions>
+    <Transaction>2024/09/23 15:02:50.000.993,=C:\Users\qsautreuil\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/23 15:02:51.000.243,=C:\Users\qsautreuil\Documents\Embarcadero\Studio\Projets\File1.cpp</Transaction>
+    <Transaction>2024/09/23 15:05:55.000.028,C:\Users\qsautreuil\Desktop\M01\File1.cpp=C:\Users\qsautreuil\Documents\Embarcadero\Studio\Projets\File1.cpp</Transaction>
+    <Transaction>2024/09/23 16:57:27.000.493,C:\Users\qsautreuil\Desktop\M01\Project1.cbproj=C:\Users\qsautreuil\Documents\Embarcadero\Studio\Projets\Project1.cbproj</Transaction>
+    <Transaction>2024/09/23 16:57:27.000.493,C:\Users\qsautreuil\Desktop\M01\Project1PCH1.h=C:\Users\qsautreuil\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
   </Transactions>
 </BorlandProject>
